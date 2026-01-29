@@ -1,0 +1,20 @@
+# Wails build output
+build/bin/
+build/wails.exe
+build/wails
+
+# Frontend dependencies (Massive folder, never commit this)
+frontend/node_modules/
+frontend/dist/
+
+# System junk
+.DS_Store
+Thumbs.db
+
+# IDE settings (Optional, but good practice)
+.vscode/
+.idea/
+
+build/bin
+node_modules
+frontend/dist
